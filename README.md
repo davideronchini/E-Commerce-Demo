@@ -32,7 +32,7 @@ The project structure follows the principles of Clean Architecture:
 ```
 
 ## 📂 Folder Structure
-
+```
 The folder structure reflects the organization of the project:
 └── lib/
   ├── features/
@@ -58,6 +58,7 @@ The folder structure reflects the organization of the project:
   │ ├── util/
   │ └── usecases/
   └── main.dart
+```
 
 ## 🛠️ Commands & Installation
 
@@ -73,17 +74,13 @@ The folder structure reflects the organization of the project:
 To get started with this project, follow these steps:
 
 1. **Clone the repository**:
-   '''bash
-   git clone https://github.com/yourusername/demo-ecommerce-app.git
+   ```bash git clone https://github.com/yourusername/demo-ecommerce-app.git ```
 2. **Navigate into the project directory**:
-   '''bash
-   cd demo-ecommerce-app
+   ```bash cd demo-ecommerce-app ```
 3. **Install dependencies**:
-   '''bash
-   flutter pub get
+   ```bash flutter pub get ```
 5. **Run the app**:
-   '''bash
-   flutter run
+   ```bash flutter run ```
 
 ## Credits
 Inspired by the [Complete Flutter E-Commerce App - Bloc, Clean Architecture, Firebase](https://www.youtube.com/watch?v=OTdRkmmE_Vw) tutorial.
