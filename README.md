@@ -74,7 +74,8 @@ To get started with this project, follow these steps:
 4. **Run the app**:
    ```bash flutter run ```
 
-Other commands: 
+Other commands:
+
 5. **Build the application for release**:
    ```bash flutter build ```
 6. **Run tests in the project**:
