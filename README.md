@@ -26,9 +26,9 @@ The project structure follows the principles of Clean Architecture:
 │ ├── repository interfaces/
 │ └── use cases/
 └── data layer/
-├── repositories/
-├── data sources/
-└── models/
+  ├── repositories/
+  ├── data sources/
+  └── models/
 ```
 
 ## 📂 Folder Structure
@@ -46,9 +46,9 @@ The folder structure reflects the organization of the project:
   │   │ ├── entities/
   │   │ └── repository/
   │   └── presentation/
-  │   ├── bloc/
-  │   ├── widgets/
-  │   └── pages/
+  │     ├── bloc/
+  │     ├── widgets/
+  │     └── pages/
   ├── config/
   │ ├── theme/
   │ └── routes/
