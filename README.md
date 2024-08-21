@@ -31,7 +31,8 @@ The project structure follows the principles of Clean Architecture:
   └── models/
 ```
 
-## 📂 Folder Structure
+## 📁 Folder Structure
+
 The project folder structure therefore follows the principles of Clean Architecture and is organized as follows:
 ```
 └── lib/
@@ -62,15 +63,6 @@ The project folder structure therefore follows the principles of Clean Architect
 
 ## 🛠️ Commands & Installation
 
-| Description                                     | Command                                              |
-|-------------------------------------------------|------------------------------------------------------|
-| Clone the repository                            | `git clone https://github.com/yourusername/demo-ecommerce-app.git` |
-| Navigate into the project directory             | `cd demo-ecommerce-app`                             |
-| Install project dependencies                    | `flutter pub get`                                   |
-| Run the application                             | `flutter run`                                       |
-| Build the application for release               | `flutter build`                                     |
-| Run tests in the project                        | `flutter test`                                      |
-
 To get started with this project, follow these steps:
 
 1. **Clone the repository**:
@@ -81,6 +73,12 @@ To get started with this project, follow these steps:
    ```bash flutter pub get ```
 5. **Run the app**:
    ```bash flutter run ```
+
+Other commands: 
+| Description                                     | Command                                              |
+|-------------------------------------------------|------------------------------------------------------|
+| Build the application for release               | `flutter build`                                     |
+| Run tests in the project                        | `flutter test`                                      |
 
 ## Credits
 
