@@ -62,14 +62,14 @@ The project folder structure therefore follows the principles of Clean Architect
 
 ## 🛠️ Commands & Installation
 
-| Command                  | Description                                     |
-|--------------------------|-------------------------------------------------|
-| `git clone https://github.com/yourusername/demo-ecommerce-app.git`   | Clone the repository                            |
-| `cd demo-ecommerce-app`  | Navigate into the project directory             |
-| `flutter pub get`        | Install project dependencies                    |
-| `flutter run`            | Run the application                             |
-| `flutter build`          | Build the application for release               |
-| `flutter test`           | Run tests in the project                        |
+| Description                                     | Command                                              |
+|-------------------------------------------------|------------------------------------------------------|
+| Clone the repository                            | `git clone https://github.com/yourusername/demo-ecommerce-app.git` |
+| Navigate into the project directory             | `cd demo-ecommerce-app`                             |
+| Install project dependencies                    | `flutter pub get`                                   |
+| Run the application                             | `flutter run`                                       |
+| Build the application for release               | `flutter build`                                     |
+| Run tests in the project                        | `flutter test`                                      |
 
 To get started with this project, follow these steps:
 
