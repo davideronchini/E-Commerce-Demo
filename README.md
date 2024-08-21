@@ -37,18 +37,18 @@ The folder structure reflects the organization of the project:
 └── lib/
   ├── features/
   │ └── auth/
-  │ ├── data/
-  │ │ ├── data_sources/
-  │ │ ├── models/
-  │ │ └── repository/
-  │ ├── domain/
-  │ │ ├── usecases/
-  │ │ ├── entities/
-  │ │ └── repository/
-  │ └── presentation/
-  │ ├── bloc/
-  │ ├── widgets/
-  │ └── pages/
+  │   ├── data/
+  │   │ ├── data_sources/
+  │   │ ├── models/
+  │   │ └── repository/
+  │   ├── domain/
+  │   │ ├── usecases/
+  │   │ ├── entities/
+  │   │ └── repository/
+  │   └── presentation/
+  │   ├── bloc/
+  │   ├── widgets/
+  │   └── pages/
   ├── config/
   │ ├── theme/
   │ └── routes/
