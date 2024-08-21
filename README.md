@@ -71,15 +71,15 @@ To get started with this project, follow these steps:
    ```bash cd demo-ecommerce-app ```
 3. **Install dependencies**:
    ```bash flutter pub get ```
-5. **Run the app**:
+4. **Run the app**:
    ```bash flutter run ```
 
 Other commands: 
-| Description                                     | Command                                              |
-|-------------------------------------------------|------------------------------------------------------|
-| Build the application for release               | `flutter build`                                     |
-| Run tests in the project                        | `flutter test`                                      |
-
+5. **Build the application for release**:
+   ```bash flutter build ```
+6. **Run tests in the project**:
+   ```bash flutter test ```
+   
 ## Credits
 
 This project is inspired by the [Complete Flutter E-Commerce App - Bloc, Clean Architecture, Firebase](https://www.youtube.com/watch?v=OTdRkmmE_Vw) tutorial from the [Flutter Guys](https://www.youtube.com/@flutterguys) YouTube channel. 
