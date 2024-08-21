@@ -1,0 +1,35 @@
+{
+    "name": "e_commerce_demo",
+    "short_name": "e_commerce_demo",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "This demo E-Commerce app, built with Flutter, leverages Clean Architecture for a scalable and maintainable codebase. It integrates Firebase for authentication and real-time data updates, employs BloC for efficient state management, and utilizes get_it for smooth dependency injection. Additionally, dartz is used to enhance error handling and apply functional programming principles.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
