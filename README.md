@@ -16,7 +16,7 @@ The project structure follows the principles of Clean Architecture:
 - **Presentation Layer**: Handles presenting the app content and triggering events that modify the application state.
 - **Domain Layer**: The innermost part of the architecture with no dependencies on other layers, focusing on the core business logic.
 - **Data Layer**: Responsible for data retrieval and managing data sources.
-'''
+```
 ├── presentation layer/
 │ ├── pages/
 │ ├── state management/
@@ -29,7 +29,7 @@ The project structure follows the principles of Clean Architecture:
 ├── repositories/
 ├── data sources/
 └── models/
-'''
+```
 
 ## 📂 Folder Structure
 
