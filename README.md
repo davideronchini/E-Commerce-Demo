@@ -64,7 +64,7 @@ The folder structure reflects the organization of the project:
 
 | Command                  | Description                                     |
 |--------------------------|-------------------------------------------------|
-| `git clone <repo-url>`   | Clone the repository                            |
+| `git clone <[repo-url](https://github.com/davideronchini/E-Commerce-Demo.git)>`   | Clone the repository                            |
 | `cd demo-ecommerce-app`  | Navigate into the project directory             |
 | `flutter pub get`        | Install project dependencies                    |
 | `flutter run`            | Run the application                             |
@@ -88,5 +88,5 @@ Inspired by the [Complete Flutter E-Commerce App - Bloc, Clean Architecture, Fir
 ## 👀 Want to Learn More?
 Feel free to connect with me on LinkedIn or reach out via email.
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [davideronchini](www.linkedin.com/in/davideronchini)
+- Email: [ronchinidavid3@gmail.com](mailto:ronchinidavid3@gmail.com)
