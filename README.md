@@ -32,8 +32,8 @@ The project structure follows the principles of Clean Architecture:
 ```
 
 ## 📂 Folder Structure
-```
 The folder structure reflects the organization of the project:
+```
 └── lib/
   ├── features/
   │ └── auth/
@@ -64,7 +64,7 @@ The folder structure reflects the organization of the project:
 
 | Command                  | Description                                     |
 |--------------------------|-------------------------------------------------|
-| `git clone <[repo-url](https://github.com/davideronchini/E-Commerce-Demo.git)>`   | Clone the repository                            |
+| `git clone <https://github.com/davideronchini/E-Commerce-Demo.git>`   | Clone the repository                            |
 | `cd demo-ecommerce-app`  | Navigate into the project directory             |
 | `flutter pub get`        | Install project dependencies                    |
 | `flutter run`            | Run the application                             |
