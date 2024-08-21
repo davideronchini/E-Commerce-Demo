@@ -31,7 +31,7 @@ The project structure follows the principles of Clean Architecture:
   └── models/
 ```
 
-## 📁 Folder Structure
+## 🗄 Folder Structure
 
 The project folder structure therefore follows the principles of Clean Architecture and is organized as follows:
 ```
