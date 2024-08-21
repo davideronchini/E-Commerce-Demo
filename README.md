@@ -83,10 +83,15 @@ To get started with this project, follow these steps:
    ```bash flutter run ```
 
 ## Credits
-Inspired by the [Complete Flutter E-Commerce App - Bloc, Clean Architecture, Firebase](https://www.youtube.com/watch?v=OTdRkmmE_Vw) tutorial.
 
-## 👀 Want to Learn More?
-Feel free to connect with me on LinkedIn or reach out via email.
+This project is inspired by the [Complete Flutter E-Commerce App - Bloc, Clean Architecture, Firebase](https://www.youtube.com/watch?v=OTdRkmmE_Vw) tutorial from the [Flutter Guys](https://www.youtube.com/@flutterguys) YouTube channel. 
+
+A special thanks to the creators for their valuable insights and guidance on implementing clean architecture and advanced Flutter concepts.
+
+
+## 👀 Interested in Learning More?
+
+If you have any questions, would like to discuss this project further, or are interested in potential collaboration opportunities, please feel free to connect with me through the following channels:
 
 - LinkedIn: [davideronchini](www.linkedin.com/in/davideronchini)
 - Email: [ronchinidavid3@gmail.com](mailto:ronchinidavid3@gmail.com)
