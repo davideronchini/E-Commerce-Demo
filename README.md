@@ -92,5 +92,5 @@ A special thanks to the creators for their valuable insights and guidance on imp
 
 If you have any questions, would like to discuss this project further, or are interested in potential collaboration opportunities, please feel free to connect with me through the following channels:
 
-- LinkedIn: [davideronchini](www.linkedin.com/in/davideronchini)
+- LinkedIn: [davideronchini](https://www.linkedin.com/in/davideronchini)
 - Email: [ronchinidavid3@gmail.com](mailto:ronchinidavid3@gmail.com)
