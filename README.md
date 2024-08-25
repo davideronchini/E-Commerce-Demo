@@ -66,20 +66,20 @@ The project folder structure therefore follows the principles of Clean Architect
 To get started with this project, follow these steps:
 
 1. **Clone the repository**:
-   ```bash git clone https://github.com/yourusername/demo-ecommerce-app.git ```
+   ```git clone https://github.com/yourusername/demo-ecommerce-app.git ```
 2. **Navigate into the project directory**:
-   ```bash cd demo-ecommerce-app ```
+   ```cd demo-ecommerce-app ```
 3. **Install dependencies**:
-   ```bash flutter pub get ```
+   ```flutter pub get ```
 4. **Run the app**:
-   ```bash flutter run ```
+   ```flutter run ```
 
 Other commands:
 
 5. **Build the application for release**:
-   ```bash flutter build ```
+   ```flutter build ```
 6. **Run tests in the project**:
-   ```bash flutter test ```
+   ```flutter test ```
    
 ## Credits
 
